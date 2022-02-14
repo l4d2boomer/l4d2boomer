@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @l4d2boomer
+- 🌱 Language: Python, Go
